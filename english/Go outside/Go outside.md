@@ -1,2 +1,1 @@
-Outside i see a strange old woman..
-what do you do:
+Outside i see a strange old woman.. she tells me to run away!!
