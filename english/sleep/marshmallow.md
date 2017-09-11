@@ -5,3 +5,4 @@ Do you:
 [Start eating the walls](../eating-walls/eating-marshmallows.md)?
 
 [Go back to sleep](marshmallow.md)?
+[Go outside](../Go outside/Go outside.md)?
